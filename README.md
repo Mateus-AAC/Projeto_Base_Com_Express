@@ -11,9 +11,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * E necessario que você possua o `< Node.js >` instalado na sua maquina>
 * Dependecias utilizadas `< Express / Body-Parser / Nodemon >`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando Api com express
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar a api com express,siga as etapas:  
 
 Para instalar o Body-Parser:
 ```
